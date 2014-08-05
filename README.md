@@ -5,6 +5,15 @@ Containing the Slate custom theme.
 ## Usage
 
 * Extract to themes/ directory
+* Change theme setting in your local config
+
+---
+Name: theme_config
+---
+SSViewer:
+  theme: bootstrap-theme
+
+
 * Add the following to your Page_Controller::init() method
 
 ```
