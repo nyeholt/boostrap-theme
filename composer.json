@@ -1,0 +1,20 @@
+{
+    "name": "nyeholt/silverstripe-bootstrap320-theme",
+    "description": "A SilverStripe theme based on Bootstrap 3.2.0",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme", "bootstrap"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Marcus Nyeholt",
+            "homepage": "http://mikenovember.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=3.1"
+    },
+    "extra": {
+        "installer-name": "bootstrap"
+    }
+}

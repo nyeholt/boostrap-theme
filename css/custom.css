@@ -1,0 +1,15 @@
+.container {
+	margin-top: 20px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	min-height: 0px;
+}
+
+.container {
+	margin-bottom: 50px;
+}
